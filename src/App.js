@@ -12,7 +12,7 @@ function App() {
         <a
           className="App-link"
         >
-          Get React neweer
+          Get React neeer
         </a>
       </header>
     </div>
