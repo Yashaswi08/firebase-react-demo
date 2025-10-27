@@ -12,7 +12,7 @@ function App() {
         <a
           className="App-link"
         >
-          Learn React
+          Get React
         </a>
       </header>
     </div>
