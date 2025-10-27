@@ -12,7 +12,7 @@ function App() {
         <a
           className="App-link"
         >
-          Get React neeer
+          Get React newer
         </a>
       </header>
     </div>
