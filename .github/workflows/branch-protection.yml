@@ -1,0 +1,16 @@
+name: Enforce Branch Protection
+
+on:
+push:
+branches:
+- main
+
+jobs:
+prevent_direct_push:
+runs-on: ubuntu-latest
+if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+steps:
+- name: Block direct push to main
+run: |
+echo "❌ Direct pushes to 'main' are not allowed. Please create a pull request."
+exit 1
