@@ -12,7 +12,7 @@ function App() {
         <a
           className="App-link"
         >
-          Get React latest
+          Get React
         </a>
       </header>
     </div>
