@@ -12,7 +12,7 @@ function App() {
         <p
           className="App-link"
         >
-          Get lcdjnY App
+          Get lcdvddjnY App
         </p>
       </header>
     </div>
