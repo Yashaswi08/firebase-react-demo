@@ -12,7 +12,7 @@ function App() {
         <p
           className="App-link"
         >
-          Get Namish a cup of cofee. Hurry up Pal!.
+          Get Namish a cup  cofee. Hurry up Pal!.
         </p>
       </header>
     </div>
